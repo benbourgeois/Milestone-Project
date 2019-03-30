@@ -84,9 +84,10 @@ header {
 .name {
     font-family: "Playfair Display", serif;
     font-weight: 100;
-    font-size: 46px;
+    font-size: 50px;
     margin-top: 50px;
     margin-bottom: 90px;
+    text-align: center;
     color: #00ffcc;
 }
 
@@ -174,7 +175,7 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #0fc32e;
 }
 
 #footer-details {
