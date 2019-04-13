@@ -201,60 +201,26 @@ footer {
   margin: 0;
 }
 
-/*---------------------------------------------Personal Info*/
-
-.personal-info-item {
+/*---------------------------------------------Gallery*/
+.gallery-heading {
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+    margin-top: 40px;
     margin-bottom: 20px;
-    display: block;
-    clear: both;
+    color: #f4f4f4;
+    text-shadow: 2px 2px 4px #000000
 }
 
-.personal-info-item .key,
-.personal-info-item .value {
-    padding-right: 8px;
+.gallery-heading {
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 80px;
 }
 
-.personal-info-item .key p,
-.personal-info-item .value p {
-    margin: 0;
-}
-
-.personal-info-item .key {
-    display: inline-block;
-    width: 30%;
-    margin-right: 21px;
-    padding-top: 2px;
-    vertical-align: top;
-}
-
-.personal-info-item .key p {
-    font-weight: 700;
-}
-
-.personal-info-item .value {
-    display: inline-block;
-    position: relative;
-    width: 60%;
-}
-
-/*---------------------------------------------Skills*/
-
-.progress {
-    position: relative;
-    height: 25px;
-}
-
-.progress-type {
-    position: absolute;
-    left: 0px;
-    font-weight: 400;
-    padding: 3px 30px 2px 10px;
-    color: #fafafa;
-    background-color: rgba(25, 25, 25, 0.2);
-}
-
-.progress-section {
-    margin: 40px 20px;
+.images-gallery{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    
 }
 
 /*---------------------------------------------Media Queries*/
