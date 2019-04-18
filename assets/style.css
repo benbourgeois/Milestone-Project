@@ -218,9 +218,8 @@ footer {
 }
 
 .images-gallery{
-    margin-top: 10px;
-    margin-bottom: 50px;
-    
+    display: block;
+    margin-bottom: 20px;
 }
 
 /*---------------------------------------------Media Queries*/
