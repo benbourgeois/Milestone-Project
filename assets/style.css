@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700|Playfair+Display:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700|Playfair+Display:100,200,300,400,500,600,700|Alice:100,200,300,400,500,600,700');
 
 /*-----------------------------------------------Colors*/
 
@@ -46,8 +46,19 @@ h4 {
     font-weight: 500;
     margin-top: 40px;
     margin-bottom: 40px;
+    text-align: center;
     color: #f4f4f4;
     text-shadow: 2px 2px 4px #000000
+}
+
+.about-me-paragraph {
+    font-family: "Alice", serif;
+    font-weight: 500;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #f4f4f4;
+    text-shadow: 3px 3px 4px #000000;
 }
 
 /*---------------------------------------------Heading*/
@@ -187,13 +198,13 @@ footer {
 }
 
 .about-me-full{
-    height: 50vh;
+    height: 20vh;
     text-align: center;
     color: #ffffff;
 }
 
 .home-bg-image-container {
-    background: url(../images/IMG_2741.JPG) no-repeat center center fixed; 
+    background: url(../images/Home-BG.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -219,6 +230,7 @@ footer {
 
 .images-gallery{
     display: block;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -251,7 +263,7 @@ footer {
 
 
 .where-bg-image-container {
-    background: url(../images/IMG_2658.jpg) no-repeat center center fixed; 
+    background: url(../images/Where-am-i-BG.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -263,6 +275,8 @@ footer {
     color: #00000;
     margin-bottom: 50px;
     margin-top: 20px;
+    margin-left: 190px;
+    text-align: center;
 }
 
 .timeline-item {
@@ -304,6 +318,7 @@ footer {
 
 .dates-items {
     margin-bottom: 30px;
+    margin-left: 310px;
 }
 
 /*---------------------------------------------Contact Form*/
