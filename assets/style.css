@@ -229,11 +229,41 @@ footer {
 }
 
 .images-gallery{
-    display: block;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 60px;
 }
 
+.Photo-1{
+    margin-bottom: 10px;
+}
+
+.Photo-2{
+    margin-bottom: 10px;
+}
+
+.Photo-3{
+    margin-bottom: 10px;
+}
+
+.Photo-4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Photo-5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Photo-6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Video-1{
+    margin-top: 10px;
+}
 /*---------------------------------------------Media Queries*/
 
 @media(min-width: 992px) {
