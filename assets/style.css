@@ -44,7 +44,7 @@ h4 {
 .about-me-heading {
     font-family: "Playfair Display", serif;
     font-weight: 500;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 40px;
     text-align: center;
     color: #f4f4f4;
@@ -192,7 +192,7 @@ footer {
 /*---------------------------------------------About Me*/
 
 .about-me-heading {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     text-align: center;
     font-size: 80px;
 }
