@@ -264,15 +264,6 @@ footer {
 .Video-1{
     margin-top: 10px;
 }
-/*---------------------------------------------Media Queries*/
-
-@media(min-width: 992px) {
-    .section-column {
-        padding: 0 30px 30px;
-        float: none;
-        display: table-cell;
-    }
-}
 
 /*---------------------------------------------Where Am I*/
 .where-am-i-heading {
@@ -382,6 +373,22 @@ button[type="submit"] {
 }
 
 /*---------------------------------------------Media Queries*/
+
+@media(max-width: 812px) {
+    .section-column {
+        padding: 0 50px 50px;
+        float: none;
+        display: inline-block;
+    }
+}
+
+@media(min-width: 992px) {
+    .section-column {
+        padding: 0 30px 30px;
+        float: none;
+        display: table-cell;
+    }
+}
 
 @media(min-width: 992px) {
     .center-form {
