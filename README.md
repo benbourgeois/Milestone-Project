@@ -8,17 +8,17 @@ I tried to design this website for anyone looking for some photos or to get in t
 
 ## User stories
 
-As a new visitor to the website, I want to easily find my way around the website to find what I need.
+- As a new visitor to the website, I want to easily find my way around the website to find what I need.
 
-As a new visitor to the website, I want to look at examples of photos that the photographer has taken.
+- As a new visitor to the website, I want to look at examples of photos that the photographer has taken.
 
-As a person exploring for new photographers, I want to look at his work in the gallery page and contact him for more or for a photo.
+- As a person exploring for new photographers, I want to look at his work in the gallery page and contact him for more or for a photo.
 
-As a person looking to make an appointment, I want to look to see where he will be and when and contact him to arrange a meeting.
+- As a person looking to make an appointment, I want to look to see where he will be and when and contact him to arrange a meeting.
 
-As a person looking to order pictures, I would like to be able to contact the photographer to let them know which ones I would like as well as if they have any similar.
+- As a person looking to order pictures, I would like to be able to contact the photographer to let them know which ones I would like as well as if they have any similar.
 
-As another photographer, I want to look to see where he is from and see if he is close to me to see if we can arrange a collaboration.
+- As another photographer, I want to look to see where he is from and see if he is close to me to see if we can arrange a collaboration.
 
 
 ## Features
@@ -105,7 +105,7 @@ This project was developed using the Cloud9 IDE, commited and pushed to Github u
 
 - The text used on the home page are my own for this project.
 
-## Media
+#### Media
 
 - The photos used on the backgrounds and Gallery page are my own for this project.
 - The video used on the Gallery page was provided from Code Institue for this project.
